@@ -1,0 +1,40 @@
+Adastra TH SharePoint URL: https://adastrabiz.sharepoint.com/sites/AdastraTH
+Please review and study two courses (Check via LLT Repo).
+•	S001- Global Consulting 101 (ATH) or P001 (check on SharePoint)
+•	S016-ATH-Mastering Interviews
+
+For skillset entry (See attached Excel Worksheet):
+•	Blank = No knowledge or prior reading
+•	1 = Prior reading or training without hands-on
+•	2 = Prior hands-on experience that needs a refresh
+•	3 = Project Ready
+
+Link to IT Security: https://adastrabiz.sharepoint.com/:f:/r/sites/AdastraTH/Shared%20Documents/01-Information%20Security?csf=1&web=1&e=MFKeh2
+Link to IT Security quiz: https://forms.office.com/e/C92vqJ44ii
+
+LLT History Tracker: https://athinfo.azurewebsites.net/
+
+Sirakorn Lamyai
+
+Domain and SubDOmain
+
+Loblaw: Dadaji@1988
+GCP account: Dadaji@01071988
+Adastra: Password@2024
+
+QA target table 
+Dev target table 
+
+GitlabAccess token: h56TDzo_oWRyr9ps9A3x
+
+UTC = GMT
+
+PS Microsoft.PowerShell.Core\FileSystem::\\Client\C$\Users\Akhilesh.Gupta\OneDrive - Adastra, s.r.o\Desktop>
+
+1. CSV
+2. 
+
+also tried the same for for "lt-dia-lake-exp-raw and lt-dia-lake-val-raw" but access denied
+
+
+dg-logistics-procurement-sap_ekko-delta-ingestion : working on this, as Yesterday, I worked on something similar with Kaloyan
